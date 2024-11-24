@@ -1,3 +1,5 @@
+**Licene - [тык](https://github.com/Babochkaq/babochka-discord-_git/blob/master/License)**
+
 **Note**
 
 Данный репозиторий - некоммерческая *User-Friendly* сборка [оригинального репозитория](https://github.com/bol-van/zapret). Здесь используются оригинальные бинарники, сравнить которые вы можете с помощью хэша. Так как zapret open-source, вы всегда можете сами собрать эти бинарники и не бояться вирусов.
